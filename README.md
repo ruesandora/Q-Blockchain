@@ -19,7 +19,7 @@
 ## Sistem gereksinimleri:
 
 * NOT: Bilgi yok, manuel olarak test ettim
-* Hetzner kulalndım.
+* Hetzner kullandım.
 * Varsa 3 CPU işlemci garanti olur.
 ```
 2 CPU
@@ -188,3 +188,5 @@ docker compose logs -f
 🟡 - Eşleşiyor biraz bekle
 🔴 - Eşleşme arıyor
 ```
+
+## Hastalıklar cirit atıyor, dikkat edin kendinize!
