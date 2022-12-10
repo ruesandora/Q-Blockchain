@@ -1,6 +1,6 @@
 # Q-network-fix
 
-##Not
+## Not
 öncelikle bad block hatasını alıyrosanız malesef çözümü yok sıfırlamaktan baska çare olmuyor.
 ```
 screen -a -r q
