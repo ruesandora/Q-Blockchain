@@ -4,7 +4,7 @@
 cd testnet-public-tools/testnet-validator/
 ```
 ```
-nano .env
+nano docker-compose.yaml
 ```
 ## Aşağıdaki bayrağı ekliyoruz. virgül ve boşluk bırakma kısmına dikkat etmeniz gerekli. Ctrl + x, y enter la kaydediyoruz 
 ```
