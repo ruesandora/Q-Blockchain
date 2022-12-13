@@ -189,4 +189,9 @@ docker compose logs -f
 🔴 - Eşleşme arıyor
 ```
 
+Eğer formu doldururken aşağıdaki hata ile karşılaşırsanız kullandığınız Identify adında değişiklik yapmanız veya adreslerinizi kontrol etmeniz gerekiyor. Kullandığınız karakterlerde değişiklik yaparak veya validatör adresinizi kontrol ederek bu sorunu çözebilirsiniz.
+
+![dff](https://user-images.githubusercontent.com/98269269/207157285-76e4d6b2-bf65-4155-84b7-59f36fbae211.jpg)
+
+
 ## Hastalıklar cirit atıyor, dikkat edin kendinize!
