@@ -189,6 +189,11 @@ docker compose logs -f
 🔴 - Eşleşme arıyor
 ```
 
+-Explorerda kendi validatör adınızı bulmakta zorlanıyorsanız ctrl+f yaptıktan sonra kendi adınızı yazıp bulabilirsiniz. Ardından aşağıda işaretlediğim, kendi adınızın yanındaki dairenin üzerine geldiğinizde ''click to pin'' yazısına tıkladığınızda artık kendi adınızı en üstte görebileceksiniz :)
+
+![kkk](https://user-images.githubusercontent.com/98269269/207414985-60d423e6-facb-4292-be91-999209e9fe29.png)
+
+
 Eğer formu doldururken aşağıdaki hata ile karşılaşırsanız kullandığınız Identify adında değişiklik yapmanız veya adreslerinizi kontrol etmeniz gerekiyor. Kullandığınız karakterlerde değişiklik yaparak veya validatör adresinizi kontrol ederek bu sorunu çözebilirsiniz.
 
 ![dff](https://user-images.githubusercontent.com/98269269/207157285-76e4d6b2-bf65-4155-84b7-59f36fbae211.jpg)
