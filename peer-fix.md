@@ -107,7 +107,11 @@ admin.addPeer('enode://fd8e7d940530b528ee03f9a4b01d58a09f348c9bd9f14d42cfae76ad7
 admin.addPeer('enode://c7f5d4836146e88d8db3593e751ea6489830beb05835942ace6a377d95943220ae34e3c664ba5c8ee22c52b840fd82d397165e298ad74076aeddae8e09160892@161.97.69.121:30313')
 admin.addPeer('enode://e8fff0b380227fadebb4cfca963023e311c6077b250f889bf703464b1cce1e236fd2e0176423c1c7e67b75584ad3098f6d72bf97a77ae65f41181353d3c97ddd@46.38.240.229:30313')
 ```
+## güncel 3 adet peer
 
+admin.addPeer('enode://a092ed0aa0c015414a6c68673d822f99eb5a02d5d9d8ada4f88f9361b61082bddb5f1506c2da0b7606bfbbe2f6ffed6982f94397e0c6cf19f3fca34124bcd00d@65.108.200.247:30399')
+admin.addPeer('enode://688e9176a5283906b98ebfb9f142a3dc5a82cdbbcd47e9027fc77c5e9e578e38216f4033064522f9aaa7a224ff58c1a7dd3482a6f7a35b50015db2edba0feaae@81.0.218.193:30313')
+admin.addPeer('enode://89140a501d99416059a9d45765c907fcb1fe48df45ada58f51146c5c9fac7f3331327f51a8316dd15a64a9a1463d0304c53bdd1a8b00480c45b68f43497c36c4@81.0.218.194:30315')
 son olarak ( exit ) yazıp enterlıyoruz
 ```
 docker-compose logs -f --tail "100" 
@@ -127,3 +131,4 @@ yukrıdaki kısmı siliyoruz ctrl x y enter la kaydediyoruz
 ```
 docker-compose logs -f --tail "100" 
 ```
+## arkadaslar bu işlemin tersini yapalım bu kısım kod eğer yoksa ekleyelim öyle deneyelim
