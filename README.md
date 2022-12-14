@@ -10,8 +10,6 @@
 * Ben garanti olduğunu düşünmüyorum, risk size kalmış, bu testnete katılıp katılmamak tamamen kişisel fikrinizdir
 * Testnet bitince KYC olacakmış.
 * Ödül dönemi kilit detayları var [makale](https://medium.com/q-blockchain/q-blockchain-validator-onboarding-program-part-1-validator-incentivized-testnet-567ef6e4002e) Katılmanın ne kadar mantıklı olduğunu siz seçin.
-* Hem vakit hemde malum hastalıklardan ötürü rehber kısa ve öz hazırlandı (rehber 4 kez test edildi)
-* Bu vakit darlığından ve hastalığımdan ötürü rehberin paylaşıldığı ilk gün grupta aktif olamayacağım.
 * Proje discordu: [Discord kanalı](https://discord.gg/pRkZRahJ)
 * Repoyu sağ üstten forklayıp yıldızlamayı unutmayın!
 * Eksik gördüklerinizi pull request yapmayı unutmayın!
