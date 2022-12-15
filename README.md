@@ -189,4 +189,4 @@ docker compose logs -f
 🔴 - Eşleşme arıyor
 ```
 
-## Hastalıklar cirit atıyor, dikkat edin kendinize!
+## Hastalıklar cirit atıyor, dikkat edin kendinize!!
